@@ -16,6 +16,11 @@
                 'Comprueban si num es mayor a Max y si num es menor min, para introducir los valores
                 If num > max Then
                     max = num
+
+                    If i = 0 Then
+                        min = num
+                    End If
+
                 End If
 
                 If num < min Then

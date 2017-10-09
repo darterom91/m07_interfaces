@@ -94,63 +94,63 @@ Partial Class Form1
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(358, 74)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(39, 13)
+        Me.Label1.Size = New System.Drawing.Size(32, 13)
         Me.Label1.TabIndex = 7
-        Me.Label1.Text = "Label1"
+        Me.Label1.Text = "suma"
         '
         'Label2
         '
         Me.Label2.AutoSize = True
         Me.Label2.Location = New System.Drawing.Point(358, 114)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(39, 13)
+        Me.Label2.Size = New System.Drawing.Size(30, 13)
         Me.Label2.TabIndex = 8
-        Me.Label2.Text = "Label2"
+        Me.Label2.Text = "resta"
         '
         'Label3
         '
         Me.Label3.AutoSize = True
         Me.Label3.Location = New System.Drawing.Point(358, 160)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(39, 13)
+        Me.Label3.Size = New System.Drawing.Size(70, 13)
         Me.Label3.TabIndex = 9
-        Me.Label3.Text = "Label3"
+        Me.Label3.Text = "multiplicacion"
         '
         'Label4
         '
         Me.Label4.AutoSize = True
         Me.Label4.Location = New System.Drawing.Point(358, 206)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(39, 13)
+        Me.Label4.Size = New System.Drawing.Size(42, 13)
         Me.Label4.TabIndex = 10
-        Me.Label4.Text = "Label4"
+        Me.Label4.Text = "division"
         '
         'Label5
         '
         Me.Label5.AutoSize = True
         Me.Label5.Location = New System.Drawing.Point(358, 251)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(39, 13)
+        Me.Label5.Size = New System.Drawing.Size(75, 13)
         Me.Label5.TabIndex = 11
-        Me.Label5.Text = "Label5"
+        Me.Label5.Text = "division entera"
         '
         'Label6
         '
         Me.Label6.AutoSize = True
         Me.Label6.Location = New System.Drawing.Point(358, 292)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(39, 13)
+        Me.Label6.Size = New System.Drawing.Size(41, 13)
         Me.Label6.TabIndex = 12
-        Me.Label6.Text = "Label6"
+        Me.Label6.Text = "residuo"
         '
         'Label7
         '
         Me.Label7.AutoSize = True
         Me.Label7.Location = New System.Drawing.Point(358, 334)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(39, 13)
+        Me.Label7.Size = New System.Drawing.Size(82, 13)
         Me.Label7.TabIndex = 13
-        Me.Label7.Text = "Label7"
+        Me.Label7.Text = "exponenciacion"
         '
         'Button1
         '

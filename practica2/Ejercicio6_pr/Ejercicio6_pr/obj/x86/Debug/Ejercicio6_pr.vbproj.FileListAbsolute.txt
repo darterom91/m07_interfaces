@@ -1,0 +1,14 @@
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio6_pr\Ejercicio6_pr\bin\Debug\Ejercicio6_pr.exe
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio6_pr\Ejercicio6_pr\bin\Debug\Ejercicio6_pr.pdb
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio6_pr\Ejercicio6_pr\bin\Debug\Ejercicio6_pr.xml
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio6_pr\Ejercicio6_pr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio6_pr\Ejercicio6_pr\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio6_pr\Ejercicio6_pr\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio6_pr\Ejercicio6_pr\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio6_pr\Ejercicio6_pr\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio6_pr\Ejercicio6_pr\obj\x86\Debug\Ejercicio6_pr.exe
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio6_pr\Ejercicio6_pr\obj\x86\Debug\Ejercicio6_pr.xml
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio6_pr\Ejercicio6_pr\obj\x86\Debug\Ejercicio6_pr.pdb
+\\VBOXSVR\willy\M07\m07_interfaces\practica2\Ejercicio6_pr\Ejercicio6_pr\obj\x86\Debug\Ejercicio6_pr.exe
+\\VBOXSVR\willy\M07\m07_interfaces\practica2\Ejercicio6_pr\Ejercicio6_pr\obj\x86\Debug\Ejercicio6_pr.xml
+\\VBOXSVR\willy\M07\m07_interfaces\practica2\Ejercicio6_pr\Ejercicio6_pr\obj\x86\Debug\Ejercicio6_pr.pdb

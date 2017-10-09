@@ -11,22 +11,19 @@
             minuts = minuts + 1
         End If
 
-        If minuts >= 59 Then
+        If minuts > 59 Then
             minuts = 0
             hora = hora + 1
         End If
 
-        If hora >= 23 Then
+        If hora > 23 Then
             hora = 0
         End If
 
-        
-
-       
         'mostrar
         Me.TextBox4.Text = hora
         Me.TextBox5.Text = minuts
-        Me.TextBox6.Text = segons + 1
+        Me.TextBox6.Text = segons
 
         Me.TextBox1.Text = Me.TextBox1.Text
         Me.TextBox2.Text = Me.TextBox2.Text
