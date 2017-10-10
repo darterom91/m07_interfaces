@@ -9,3 +9,6 @@ C:\Users\dam\documents\visual studio 2010\Projects\Ejercicio2_pr3\Ejercicio2_pr3
 C:\Users\dam\documents\visual studio 2010\Projects\Ejercicio2_pr3\Ejercicio2_pr3\obj\x86\Debug\Ejercicio2_pr3.exe
 C:\Users\dam\documents\visual studio 2010\Projects\Ejercicio2_pr3\Ejercicio2_pr3\obj\x86\Debug\Ejercicio2_pr3.xml
 C:\Users\dam\documents\visual studio 2010\Projects\Ejercicio2_pr3\Ejercicio2_pr3\obj\x86\Debug\Ejercicio2_pr3.pdb
+C:\Users\dam\Desktop\practica3\Ejercicio2_pr3\Ejercicio2_pr3\obj\x86\Debug\Ejercicio2_pr3.exe
+C:\Users\dam\Desktop\practica3\Ejercicio2_pr3\Ejercicio2_pr3\obj\x86\Debug\Ejercicio2_pr3.xml
+C:\Users\dam\Desktop\practica3\Ejercicio2_pr3\Ejercicio2_pr3\obj\x86\Debug\Ejercicio2_pr3.pdb
