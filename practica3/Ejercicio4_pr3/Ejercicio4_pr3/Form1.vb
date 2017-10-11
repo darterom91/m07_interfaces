@@ -5,12 +5,13 @@
         Dim valor, res As Integer
 
         For i = 1 To 30
-            If valor Mod 2 = 0 Then
+            If valor Mod 2 = 1 Then
                 Me.TextBox1.Text = Me.TextBox1.Text & valor & vbCrLf
-                res = valor + valor
+                res = res + valor
             End If
             valor = valor + 1
         Next
         Me.TextBox2.Text = res
     End Sub
+
 End Class
