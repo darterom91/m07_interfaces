@@ -1,18 +1,18 @@
 ﻿Module ordenar
 
-    Function ord(ByVal num() As Integer, ByVal i As Integer) As Integer
+    Function ord(ByVal num() As Integer) As Integer
         Dim j, aux As Integer
-        For i = 1 To num.Length - 1
+        Dim i As Integer
+        For i = 1 To num.Length
             For j = 0 To num.Length - i - 1
                 If num(j) > num(j + 1) Then
-                    aux = num(j)
-                    num(j) = num(j + 1)
-                    num(j + 1) = aux
+                    aux = num(j + 1)
+                    num(j + 1) = num(j)
+                    num(j) = aux
                 End If
             Next
         Next
 
-        Return num(8)
     End Function
 
 End Module
@@ -50,20 +50,19 @@ Public Class Form1
         Next
 
         i = 0
-        num(i) = ordenar.ord(num, i)
+        num(i) = ordenar.ord(num)
 
         For i = i To 8
             Me.TextBox2.Text = Me.TextBox2.Text & num(i) & ", "
         Next
 
-        i = 0
-        For i = 1 To num.Length - 1
+        For i = 1 To 7
             If num(i) Mod 2 = 0 Then
                 Me.TextBox3.Text = Me.TextBox3.Text & num(i) & ", "
             End If
         Next
 
-        For i = 1 To num.Length - 1
+        For i = 1 To 7
             If num(i) Mod 2 <> 0 Then
                 Me.TextBox4.Text = Me.TextBox4.Text & num(i) & ", "
             End If

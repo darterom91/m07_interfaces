@@ -9,3 +9,6 @@ C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio1_pr5\Ejercicio1_pr5
 C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio1_pr5\Ejercicio1_pr5\obj\x86\Debug\Ejercicio1_pr5.exe
 C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio1_pr5\Ejercicio1_pr5\obj\x86\Debug\Ejercicio1_pr5.xml
 C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio1_pr5\Ejercicio1_pr5\obj\x86\Debug\Ejercicio1_pr5.pdb
+\\VBOXSVR\willy\M07\m07_interfaces\practica5\Ejercicio1_pr5\Ejercicio1_pr5\obj\x86\Debug\Ejercicio1_pr5.exe
+\\VBOXSVR\willy\M07\m07_interfaces\practica5\Ejercicio1_pr5\Ejercicio1_pr5\obj\x86\Debug\Ejercicio1_pr5.xml
+\\VBOXSVR\willy\M07\m07_interfaces\practica5\Ejercicio1_pr5\Ejercicio1_pr5\obj\x86\Debug\Ejercicio1_pr5.pdb

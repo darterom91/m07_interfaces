@@ -1,0 +1,22 @@
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio2_pr5\Ejercicio2_pr5\bin\Debug\Ejercicio2_pr5.exe
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio2_pr5\Ejercicio2_pr5\bin\Debug\Ejercicio2_pr5.pdb
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio2_pr5\Ejercicio2_pr5\bin\Debug\Ejercicio2_pr5.xml
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio2_pr5\Ejercicio2_pr5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio2_pr5\Ejercicio2_pr5\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio2_pr5\Ejercicio2_pr5\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio2_pr5\Ejercicio2_pr5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio2_pr5\Ejercicio2_pr5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio2_pr5\Ejercicio2_pr5\obj\x86\Debug\Ejercicio2_pr5.exe
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio2_pr5\Ejercicio2_pr5\obj\x86\Debug\Ejercicio2_pr5.xml
+C:\Users\dam\Documents\Visual Studio 2010\Projects\Ejercicio2_pr5\Ejercicio2_pr5\obj\x86\Debug\Ejercicio2_pr5.pdb
+\\VBOXSVR\willy\M07\m07_interfaces\practica5\Ejercicio2_pr5\Ejercicio2_pr5\obj\x86\Debug\Ejercicio2_pr5.exe
+\\VBOXSVR\willy\M07\m07_interfaces\practica5\Ejercicio2_pr5\Ejercicio2_pr5\obj\x86\Debug\Ejercicio2_pr5.xml
+\\VBOXSVR\willy\M07\m07_interfaces\practica5\Ejercicio2_pr5\Ejercicio2_pr5\obj\x86\Debug\Ejercicio2_pr5.pdb
+\\VBOXSVR\willy\M07\m07_interfaces\practica5\Ejercicio2_pr5\Ejercicio2_pr5\bin\Debug\Ejercicio2_pr5.exe
+\\VBOXSVR\willy\M07\m07_interfaces\practica5\Ejercicio2_pr5\Ejercicio2_pr5\bin\Debug\Ejercicio2_pr5.pdb
+\\VBOXSVR\willy\M07\m07_interfaces\practica5\Ejercicio2_pr5\Ejercicio2_pr5\bin\Debug\Ejercicio2_pr5.xml
+\\VBOXSVR\willy\M07\m07_interfaces\practica5\Ejercicio2_pr5\Ejercicio2_pr5\obj\x86\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\willy\M07\m07_interfaces\practica5\Ejercicio2_pr5\Ejercicio2_pr5\obj\x86\Debug\WindowsApplication1.Form1.resources
+\\VBOXSVR\willy\M07\m07_interfaces\practica5\Ejercicio2_pr5\Ejercicio2_pr5\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\VBOXSVR\willy\M07\m07_interfaces\practica5\Ejercicio2_pr5\Ejercicio2_pr5\obj\x86\Debug\GenerateResource.read.1.tlog
+\\VBOXSVR\willy\M07\m07_interfaces\practica5\Ejercicio2_pr5\Ejercicio2_pr5\obj\x86\Debug\GenerateResource.write.1.tlog
