@@ -1,0 +1,11 @@
+C:\Users\dam\documents\visual studio 2010\Projects\practica12\practica12\bin\Debug\practica12.exe
+C:\Users\dam\documents\visual studio 2010\Projects\practica12\practica12\bin\Debug\practica12.pdb
+C:\Users\dam\documents\visual studio 2010\Projects\practica12\practica12\bin\Debug\practica12.xml
+C:\Users\dam\documents\visual studio 2010\Projects\practica12\practica12\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dam\documents\visual studio 2010\Projects\practica12\practica12\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\dam\documents\visual studio 2010\Projects\practica12\practica12\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\dam\documents\visual studio 2010\Projects\practica12\practica12\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dam\documents\visual studio 2010\Projects\practica12\practica12\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dam\documents\visual studio 2010\Projects\practica12\practica12\obj\x86\Debug\practica12.exe
+C:\Users\dam\documents\visual studio 2010\Projects\practica12\practica12\obj\x86\Debug\practica12.xml
+C:\Users\dam\documents\visual studio 2010\Projects\practica12\practica12\obj\x86\Debug\practica12.pdb
